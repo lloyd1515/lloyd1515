@@ -85,6 +85,12 @@
 
 ---
 
+### 🎵 Music
+
+When not deep in security research, you can find me DJing. Check out my mixes on [SoundCloud](https://soundcloud.com/vlad-sarandan/usb-ting-2?si=55259779759d4ef596e1b695c8879822&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing).
+
+---
+
 <div align="center">
   <i>"One must imagine a system happy, or at least patched."</i> 🪨
 </div>
