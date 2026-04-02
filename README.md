@@ -1,6 +1,11 @@
 <!-- EXCEPTION: README aesthetic overrides CLAUDE.md minimalist style for personal branding. -->
 <!-- DEDSEC-START -->
 <div align="center">
+  <b>Computer Science Student @ Technical University of Cluj-Napoca (UTCN)</b><br>
+  <b>Expected Graduation: 2027</b>
+</div>
+
+<div align="center">
   <!-- Typing SVG - Retained for core info, could be themed -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8aadf4&center=true&vCenter=true&width=435&lines=Security+Researcher;Computer+Science+Student+@+UTCN;Wireless+Protocol+Security" alt="Typing SVG" />
 
@@ -9,18 +14,6 @@
   <a href="https://www.linkedin.com/in/vlad-sărăndan-6a1587289/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-</div>
-
-<!-- ASCII Art Header - Example, needs to be replaced with actual ASCII art -->
-<div align="center" aria-hidden="true">
-  <pre>
-    ███████╗███████╗███████╗███████╗███████╗███████╗███████╗███████╗
-    ██╔════╝██╔════╝██╔════╝██╔════╝██╔════╝██╔════╝██╔════╝██╔════╝
-    ███████╗███████╗███████╗███████╗███████╗███████╗███████╗███████╗
-    ╚════██║╚════██║╚════██║╚════██║╚════██║╚════██║╚════██║╚════██║
-    ███████║███████║███████║███████║███████║███████║███████║███████║
-    ╚═════╝╚═════╝╚═════╝╚═════╝╚═════╝╚═════╝╚═════╝╚═════╝
-  </pre>
 </div>
 
 <br>
