@@ -1,16 +1,7 @@
 # Vlad Sărăndan
 
-> **Security Researcher | UTCN & pwntcn CTF**
+> **Security Researcher | Technical University of Cluj-Napoca (UTCN)**
 > Focus: Wireless Protocol Security, Multi-Agent Orchestration, Low-Level Systems.
-
----
-
-### 🛡️ Competitive Security (pwntcn)
-
-Member of the **pwntcn** CTF team (Technical University of Cluj-Napoca).
-- **Core Signal:** Web Exploitation, Forensic Analysis, and Privilege Escalation.
-- **Track Record:** Active presence in the Romanian CTF scene. 
-- *Recent Result: Top 15-20 range (USV-CTF 2024/2025).*
 
 ---
 
@@ -51,6 +42,6 @@ Member of the **pwntcn** CTF team (Technical University of Cluj-Napoca).
 ---
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/vlad-s%C4%83r%C4%83ndan-6a1587289/) | [GitHub](https://github.com/lloyd1515) | [CTFtime (pwntcn)](https://ctftime.org/team/187901)
+[LinkedIn](https://www.linkedin.com/in/vlad-s%C4%83r%C4%83ndan-6a1587289/) | [GitHub](https://github.com/lloyd1515)
 
 *"One must imagine a system happy, or at least patched."* 🪨
