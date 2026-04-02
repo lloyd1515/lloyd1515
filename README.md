@@ -11,20 +11,14 @@
 
 <br>
 
-<div align="center">
-  <b>Computer Science Student @ Technical University of Cluj-Napoca (UTCN)</b><br>
-  <b>Expected Graduation: 2027</b>
-</div>
 
----
 
 ### 📡 Featured Projects
 
 <!-- Hand-Scanner -->
 <div align="center">
   <a href="https://github.com/lloyd1515/Hand-Scanner">
-    <img src="assets/hand-scanner-banner-dark.svg#gh-dark-mode-only" width="100%" alt="Hand-Scanner Banner Dark">
-    <img src="assets/hand-scanner-banner-light.svg#gh-light-mode-only" width="100%" alt="Hand-Scanner Banner Light">
+    <img src="assets/hand-scanner-banner-dark.svg" width="100%" alt="Hand-Scanner Banner Dark">
   </a>
 </div>
 
@@ -39,8 +33,7 @@
 <!-- Ubertooth -->
 <div align="center">
   <a href="https://github.com/lloyd1515/ubertooth-windows-host">
-    <img src="assets/ubertooth-banner-dark.svg#gh-dark-mode-only" width="100%" alt="Ubertooth Banner Dark">
-    <img src="assets/ubertooth-banner-light.svg#gh-light-mode-only" width="100%" alt="Ubertooth Banner Light">
+    <img src="assets/ubertooth-banner-dark.svg" width="100%" alt="Ubertooth Banner Dark">
   </a>
 </div>
 
@@ -68,13 +61,11 @@
 ### 📊 Technical Signal
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lloyd1515&theme=catppuccin&hide_border=true&area=true#gh-dark-mode-only" alt="Activity Graph Dark" width="100%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lloyd1515&theme=latte&hide_border=true&area=true#gh-light-mode-only" alt="Activity Graph Light" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lloyd1515&theme=catppuccin&hide_border=true&area=true" alt="Activity Graph Dark" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.sourceforge.app/api/top-langs/?username=lloyd1515&layout=compact&theme=catppuccin_macchiato&hide_border=true#gh-dark-mode-only" alt="Top Languages Dark" />
-  <img src="https://github-readme-stats.sourceforge.app/api/top-langs/?username=lloyd1515&layout=compact&theme=latte&hide_border=true#gh-light-mode-only" alt="Top Languages Light" />
+  <img src="https://github-readme-stats.sourceforge.app/api/top-langs/?username=lloyd1515&layout=compact&theme=catppuccin_macchiato&hide_border=true" alt="Top Languages Dark" />
 </div>
 
 ---
