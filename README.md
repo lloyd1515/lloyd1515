@@ -1,32 +1,55 @@
-# Hi there, I'm Vlad Sărăndan 👋
+# 0xVlad | Security Researcher & CS @ UTCN
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Security+Researcher+by+day;AI+Orchestrator+by+night;Computer+Science+@+UTCN;The+boulder+never+stops" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=cba6f7&center=true&vCenter=true&width=500&lines=Security+Researcher;Wireless+Protocol+Security;Full-Stack+Engineer;The+boulder+never+stops" alt="Typing SVG" />
 </p>
 
-### 💻 Computer Science Student @ UTCN | Security Researcher & Engineer
+---
 
-I focus on bridging the gap between low-level security research and modern AI-driven automation. Currently, I'm deep-diving into **BLE (Bluetooth Low Energy)** security and autonomous agent orchestration.
+### 🖥️ System Info (Neo-fetch style)
+```text
+vlad@utcn:~$ neofetch
+       .---.          OS: Technical University of Cluj-Napoca (UTCN)
+      /     \         KERNEL: Computer Science (CS) Student
+      |() ()|         SHELL: Zsh / PowerShell / Bash
+      \  ^  /         FOCUS: Wireless Security | BLE | Vulnerability Analysis
+       |||||          STATUS: 🛡️ Hardening Wireless Stacks
+       '---'          LOCATION: Cluj-Napoca, Romania
+```
 
 ---
 
-### 🛡️ Current Research (Licență)
-- **BLE Packet Analysis**: Investigating protocol-level vulnerabilities using **Ubertooth One**.
-- **CVE Analysis**: Researching and documenting modern wireless security flaws (e.g., CVE-2025-32875).
-- **Proactive Security**: Implementing automated security verification for wireless stacks.
+### 🛡️ Research & Impact (Wireless Security)
+Professional domain focus and protocol-level analysis:
 
-### 🤖 Modern AI Workflows
-I utilize advanced multi-agent orchestration to scale development and research:
-- **Metaswarm**: 18-agent orchestration for TDD and quality-gated engineering.
-- **Ralph & Ralplan**: Persistent, autonomous execution loops for high-throughput development.
-- **Codex & Gemini**: Leveraging state-of-the-art LLMs via CLI for "vibe-coded" excellence.
+| Domain | Research Focus | Status |
+| :--- | :--- | :--- |
+| **BLE Security** | Physical Layer Analysis & MITM Reconstruction | 🛠️ Active |
+| **Vulnerability Research** | CVE Analysis & Wireless Protocol Fuzzing | ✅ Verified |
+| **Automated Engineering** | Autonomous Verification Frameworks & CI/CD Hardening | 🛡️ Secured |
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages**: Python, TypeScript, C, Rust (Learning), SQL.
-- **Security**: Ubertooth, Wireshark, Bettercap, Metasploit.
-- **Automation**: Git, Discord API, Web Scraping (Selenium/BeautifulSoup).
+### 🛠️ Tech Arsenal (Categorized)
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>Languages</b><br/>
+      <code>Python</code> <code>TypeScript</code><br/>
+      <code>C</code> <code>Rust (Learning)</code>
+    </td>
+    <td align="center" width="33%">
+      <b>Security Tools</b><br/>
+      <code>Ubertooth One</code> <code>Wireshark</code><br/>
+      <code>Bettercap</code> <code>Metasploit</code>
+    </td>
+    <td align="center" width="33%">
+      <b>Infrastructure</b><br/>
+      <code>Docker</code> <code>Git</code><br/>
+      <code>Linux/Unix</code> <code>SQL</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -36,17 +59,17 @@ I utilize advanced multi-agent orchestration to scale development and research:
 
 ---
 
-### 📈 Proof of Work
+### 📈 Contribution Signal
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lloyd1515&theme=tokyo-night&hide_border=true&area=true" alt="Vlad's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lloyd1515&theme=catppuccin&hide_border=true&area=true" alt="Vlad's Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloyd1515&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloyd1515&layout=compact&theme=catppuccin&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"One must imagine a multi-agent system happy."</i> 🪨
+  <i>"One must imagine a system happy."</i> 🪨
 </p>
