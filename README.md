@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <b>Undergraduate Student | Computer Science Student @ Technical University of Cluj-Napoca (UTCN)</b><br>
+  <b>Computer Science Student @ Technical University of Cluj-Napoca (UTCN)</b><br>
   <b>Expected Graduation: 2027</b>
 </div>
 
