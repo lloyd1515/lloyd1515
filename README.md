@@ -7,9 +7,15 @@
 ---
 
 ### 🖥️ System Runtime (v0.2.6-stable)
-<p align="center">
-  <img src="system-runtime.svg" alt="System Runtime ASCII Art" width="600" />
-</p>
+
+```text
+       .---.          OS: Technical University of Cluj-Napoca (UTCN)
+      /     \         KERNEL: Computer Science (CS) Student
+      |() ()|         SHELL: Zsh / PowerShell / Bash
+      \  ^  /         FOCUS: Wireless Protocol Security
+       |||||          STATUS: 🛡️ Hardening Physical Layers
+       '---'          IDENTITY: Verified via GPG
+```
 
 ---
 
