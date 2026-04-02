@@ -8,20 +8,16 @@
 
 ### 🖥️ System Runtime (v0.2.6-stable)
 <div align="center">
-<table border="0">
-  <tr>
-    <td>
-      <pre align="left">
-       .---.          <b>OS</b>: UTCN (Cluj-Napoca)
-      /     \         <b>KERNEL</b>: Computer Science (CS)
-      |() ()|         <b>SHELL</b>: Zsh / PowerShell / Bash
-      \  ^  /         <b>FOCUS</b>: Wireless Protocol Security
-       |||||          <b>STATUS</b>: 🛡️ Hardening Physical Layers
-       '---'          <b>IDENTITY</b>: <code>Verified via GPG</code>
-      </pre>
-    </td>
-  </tr>
-</table>
+
+```text
+       .---.          OS: Technical University of Cluj-Napoca (UTCN)
+      /     \         KERNEL: Computer Science (CS) Student
+      |() ()|         SHELL: Zsh / PowerShell / Bash
+      \  ^  /         FOCUS: Wireless Protocol Security
+       |||||          STATUS: 🛡️ Hardening Physical Layers
+       '---'          IDENTITY: Verified via GPG
+```
+
 </div>
 
 ---
