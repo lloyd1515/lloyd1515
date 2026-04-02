@@ -1,15 +1,15 @@
-<svg fill="none" viewBox="0 0 600 150" width="600" height="150" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 170" width="600" height="170" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .ascii {
           font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, monospace;
           font-size: 14px;
-          line-height: 1.3;
+          line-height: 1.4;
           white-space: pre;
           color: #cba6f7; /* Mauve Catppuccin */
           margin: 0;
-          padding: 10px 0;
+          padding: 15px 0;
         }
         .container {
           display: flex;
