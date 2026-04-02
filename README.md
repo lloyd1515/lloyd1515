@@ -8,7 +8,7 @@
 ### 📡 Featured Projects
 
 #### [Hand-Scanner (Biometric Palm Authentication)](https://github.com/lloyd1515/Hand-Scanner)
-**The Build:** A complete biometric solution using palm geometry. (SSC Course Project @ UTCN).
+**The Build:** A complete biometric solution using palm geometry. 
 *   **Architecture:** Heterogeneous (PC + **NVIDIA Jetson** + **Digilent Zybo Z7-20**).
 *   **Geometric Analysis:** Parallel **QuickHull** implementation on **NVIDIA CUDA** achieving a **175–300x speedup** for high-density stress tests (1M points).
 *   **Hardware Security:** Custom **VHDL** AES-128 CBC accelerator on FPGA with a throughput of **500 MB/s** (10x faster than software).
@@ -20,13 +20,15 @@
 *   **Performance:** Integrated **DirectX** for high-performance spectrum analysis.
 *   **Safety:** Guarded reboot-only reset and reconnect-verified firmware flashing.
 
-#### [OmX (Oh My codeX)](https://github.com/lloyd1515/oh-my-codex)
-**The Build:** Local multi-agent orchestration framework for developers.
-*   **Agentic Workflows:** Autonomous agent teams for high-volume engineering tasks.
-*   **Extensibility:** Integrated CLI hooks, HUDs, and real-time state monitoring.
+---
 
-#### [WAVS (Web App Vulnerability Scanner)](https://github.com/lloyd1515/Web-App-Vulnerability-Scanner-WAVS-)
-**The Build:** Automated web application security testing for Windows.
+### 🛠 Skill Matrix
+
+| **Hardware** | **Compute** | **Security** |
+| :--- | :--- | :--- |
+| **VHDL** / FPGA (Zybo Z7-20) | **CUDA** (Parallelization) | BLE Protocol Research |
+| Ubertooth One (Sniffing) | C / C++ (Low-level) | Hardware Cryptography |
+| PCB Design (KiCad) | Rust / Python | CTF (Web / Forensic) |
 
 ---
 
