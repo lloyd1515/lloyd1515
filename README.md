@@ -7,17 +7,18 @@
 
 ### 📡 Featured Projects
 
+#### [Hand-Scanner (Biometric Palm Authentication)](https://github.com/lloyd1515/Hand-Scanner)
+**The Build:** A complete biometric solution using palm geometry. (SSC Course Project @ UTCN).
+*   **Architecture:** Heterogeneous (PC + **NVIDIA Jetson** + **Digilent Zybo Z7-20**).
+*   **Geometric Analysis:** Parallel **QuickHull** implementation on **NVIDIA CUDA** achieving a **175–300x speedup** for high-density stress tests (1M points).
+*   **Hardware Security:** Custom **VHDL** AES-128 CBC accelerator on FPGA with a throughput of **500 MB/s** (10x faster than software).
+*   **AI Integration:** MediaPipe for hand landmark extraction on the Jetson.
+
 #### [Ubertooth Windows Host](https://github.com/lloyd1515/ubertooth-windows-host)
 **The Build:** A Windows-first, safe host CLI for Ubertooth One.
 *   **Safe Transport:** WinUSB-backed transport (via Zadig) with guarded read-only protocol access.
 *   **Performance:** Integrated **DirectX** for high-performance spectrum analysis.
 *   **Safety:** Guarded reboot-only reset and reconnect-verified firmware flashing.
-
-#### [Hand-Scanner](https://github.com/lloyd1515/Hand-Scanner)
-**The Build:** High-complexity 3D scanning for medical prosthetics.
-*   **Hardware:** Multi-unit **Intel RealSense SR300** array.
-*   **Compute:** **CUDA**-accelerated point-cloud processing and mesh reconstruction.
-*   **Embedded:** **VHDL**-based signal processing for low-latency hardware capture.
 
 #### [OmX (Oh My codeX)](https://github.com/lloyd1515/oh-my-codex)
 **The Build:** Local multi-agent orchestration framework for developers.
