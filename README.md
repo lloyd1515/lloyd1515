@@ -51,6 +51,6 @@ Member of the **pwntcn** CTF team (Technical University of Cluj-Napoca).
 ---
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/vlad-s%C4%83r%C4%83ndan-6a1587289/) | [GitHub](https://github.com/lloyd1515)
+[LinkedIn](https://www.linkedin.com/in/vlad-s%C4%83r%C4%83ndan-6a1587289/) | [GitHub](https://github.com/lloyd1515) | [CTFtime (pwntcn)](https://ctftime.org/team/187901)
 
 *"One must imagine a system happy, or at least patched."* 🪨
