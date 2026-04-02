@@ -5,6 +5,7 @@
   <b>Expected Graduation: 2027</b>
 </div>
 
+---
 <div align="center">
   <!-- Typing SVG - Retained for core info, could be themed -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8aadf4&center=true&vCenter=true&width=435&lines=Security+Researcher;Computer+Science+Student+@+UTCN;Wireless+Protocol+Security" alt="Typing SVG" />
@@ -16,7 +17,7 @@
   </a>
 </div>
 
-<br>
+---
 <!-- DEDSEC-END -->
 
 ### 📡 Featured Projects
