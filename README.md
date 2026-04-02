@@ -1,96 +1,36 @@
-# 0xVlad | Security Researcher & CS @ UTCN
+# 0xVlad | Security Researcher @ UTCN
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=cba6f7&center=true&vCenter=true&width=550&lines=Security+Researcher;Wireless+Protocol+Security;Full-Stack+Engineer;0xVlad+-+Verified+Identity;The+boulder+never+stops" alt="Typing SVG" />
-</p>
+> Locking in on zero-days and hardening systems while the rest are still on default configs. No cap, the goal is digital sovereignty and making sure your stack isn't giving "vulnerable."
 
 ---
 
-### 🖥️ System Runtime (v0.2.6-stable)
+### 🛠️ The Arsenal (Current Loadout)
 
-```text
-       .---.          OS: Technical University of Cluj-Napoca (UTCN)
-      /     \         KERNEL: Computer Science (CS) Student
-      |() ()|         SHELL: Zsh / PowerShell / Bash
-      \  ^  /         FOCUS: Wireless Protocol Security
-       |||||          STATUS: 🛡️ Hardening Physical Layers
-       '---'          IDENTITY: Verified via GPG
-```
+*   **Security Research:** BLE Physical Layer Analysis, CVE Research, MITM Reconstruction.
+*   **Low-Level / Embedded:** VHDL, C, Rust, Ubertooth One, Hardware Hacking.
+*   **Orchestration & AI:** Custom CLI agents (OmX), LLM workflows, Automated Tooling.
+*   **The Stack:** Python, TypeScript, Rust, C, SQL, Docker, Linux.
 
 ---
 
-### 🛡️ Research & Impact (Wireless Domain)
-High-signal domain expertise and protocol-level analysis:
+### 🚀 High-Signal Projects
 
-<div align="center">
-<table border="0">
-  <tr>
-    <td align="left" width="50%">
-      <b>Wireless Protocol Security</b><br/>
-      <i>BLE Physical Layer Analysis & MITM Reconstruction.</i><br/>
-      <code>✅ Verified</code> <code>🛠️ Active</code>
-    </td>
-    <td align="left" width="50%">
-      <b>Vulnerability Research</b><br/>
-      <i>CVE Analysis & Automated Fuzzing Frameworks.</i><br/>
-      <code>🛡️ Secured</code> <code>✅ Patched</code>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="50%">
-      <b>Security Engineering</b><br/>
-      <i>Autonomous Verification & CI/CD Hardening.</i><br/>
-      <code>🛡️ Hardened</code> <code>✅ Verified</code>
-    </td>
-    <td align="left" width="50%">
-      <b>System Architecture</b><br/>
-      <i>Resilient Distributed Systems & API Security.</i><br/>
-      <code>🛠️ Researching</code> <code>✅ Optimized</code>
-    </td>
-  </tr>
-</table>
-</div>
+#### [OmX (Oh My codeX)](https://github.com/lloyd1515/oh-my-codex)
+Your codex is not alone. A multi-agent orchestration framework for local development. Hooks, agent teams, and HUDs. If it's not automated, it's brain rot. Bet.
+
+#### [Ubertooth Windows Host](https://github.com/lloyd1515/ubertooth-windows-host)
+Safe, read-only Windows host CLI for Ubertooth One. WinUSB diagnostics and protocol access. Bringing hardware research to the Windows ecosystem without the headache.
+
+#### [Hand-Scanner](https://github.com/lloyd1515/Hand-Scanner)
+Deep in the physical layer. VHDL, C, and Cuda implementation for custom signal processing. Hardware-level security isn't a choice, it's a requirement.
+
+#### [WAVS (Web App Vulnerability Scanner)](https://github.com/lloyd1515/Web-App-Vulnerability-Scanner-WAVS-)
+Automated vulnerability scanning for Windows. Because manual testing is for people who haven't locked in on automation yet.
 
 ---
 
-### 🛠️ Tech Arsenal (Bento-Categorized)
-<div align="center">
-<table border="0">
-  <tr>
-    <td align="center" width="33%">
-      <b>Languages</b><br/>
-      <code>Python</code> <code>TypeScript</code><br/>
-      <code>C</code> <code>Rust</code> <code>SQL</code>
-    </td>
-    <td align="center" width="33%">
-      <b>Security Tools</b><br/>
-      <code>Ubertooth One</code> <code>Wireshark</code><br/>
-      <code>Bettercap</code> <code>Metasploit</code>
-    </td>
-    <td align="center" width="33%">
-      <b>Infrastructure</b><br/>
-      <code>Docker</code> <code>Linux/Unix</code><br/>
-      <code>Git</code> <code>CI/CD</code> <code>Cloud</code>
-    </td>
-  </tr>
-</table>
-</div>
+### 📊 Verified Signal
 
----
-
-### 📫 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/vlad-s%C4%83r%C4%83ndan-6a1587289/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/lloyd1515">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-### 📈 Verified Signal
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lloyd1515&theme=catppuccin&hide_border=true&area=true" alt="Activity Graph" />
 </p>
@@ -101,6 +41,7 @@ High-signal domain expertise and protocol-level analysis:
 
 ---
 
-<p align="center">
-  <i>"One must imagine a system happy."</i> 🪨
-</p>
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/vlad-s%C4%83r%C4%83ndan-6a1587289/) | [GitHub](https://github.com/lloyd1515)
+
+*"One must imagine a system happy, or at least patched."* 🪨
