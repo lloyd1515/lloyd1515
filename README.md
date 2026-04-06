@@ -2,86 +2,53 @@
 <!-- DEDSEC-START -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PROFILE-HACKERSPACE_DASHBOARD-000000?style=for-the-badge&logo=github&logoColor=15ff00" alt="Profile Dashboard Badge" />
-  <img src="https://img.shields.io/badge/Watch_Dogs_2-hackerspace_reference-000000?style=for-the-badge&logo=ubisoft&logoColor=32c8f4" alt="Theme Reference Badge" />
-  <img src="https://img.shields.io/badge/CONTENT-100%25_FACTUAL-000000?style=for-the-badge&logo=verizon&logoColor=ff4fd8" alt="Factual Content Badge" />
-</div>
 
-<div align="center">
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=15ff00&background=00000000&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Wireless+Protocol+Security;CUDA+%2B+FPGA+%2B+Embedded+Systems;Expected+Graduation%3A+2027;SoundCloud+Mixes" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/PROFILE-SOCIAL_KIT-000000?style=for-the-badge&logo=github&logoColor=15ff00" alt="Profile Social Kit Badge" />
+<img src="https://img.shields.io/badge/Watch_Dogs_2-DedSec_social_reference-000000?style=for-the-badge&logo=ubisoft&logoColor=32c8f4" alt="Theme Reference Badge" />
+<img src="https://img.shields.io/badge/CONTENT-100%25_FACTUAL-000000?style=for-the-badge&logo=verizon&logoColor=ff4fd8" alt="Factual Content Badge" />
+
+<br><br>
+
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=15ff00&background=00000000&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Wireless+Protocol+Security;CUDA+%2B+FPGA+%2B+Embedded+Systems;Expected+Graduation%3A+2027;SoundCloud+Mixes" alt="Typing SVG" />
+
+<p align="center">
+  <strong>Computer Science Student</strong> | <strong>Expected Graduation: 2027</strong>
+</p>
+
+<p align="center">
+  wireless protocol security • heterogeneous compute • hardware crypto • Windows-first tooling
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vlad-sărăndan-6a1587289/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=32c8f4" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://soundcloud.com/vlad-sarandan/usb_ting">
+    <img src="https://img.shields.io/badge/SoundCloud-000000?style=for-the-badge&logo=soundcloud&logoColor=ff7a00" alt="SoundCloud Badge" />
+  </a>
+</p>
+
 </div>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
-### System Overview
-**Computer Science Student** | **Expected Graduation: 2027**
-
-Current public portfolio focus:
-- wireless protocol security
-- heterogeneous compute
-- FPGA and hardware crypto work
-- Windows-first tooling for radio/security workflows
+### Public Profile Frame
+This profile presents current technical work in wireless protocol security, heterogeneous compute, and hardware-focused implementation.
 
 </td>
-<td width="42%" valign="top">
+<td width="50%" valign="top">
 
-### Live Links
-<a href="https://www.linkedin.com/in/vlad-sărăndan-6a1587289/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=32c8f4" alt="LinkedIn Badge" />
-</a>
-<br>
-<a href="https://soundcloud.com/vlad-sarandan/usb_ting">
-  <img src="https://img.shields.io/badge/SoundCloud-000000?style=for-the-badge&logo=soundcloud&logoColor=ff7a00" alt="SoundCloud Badge" />
-</a>
+### Theme Note
+Visual direction references Ubisoft's Watch Dogs 2 / DedSec social and presentation language only. All portfolio content remains factual.
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <sub>Visual direction only: inspired by Watch Dogs 2's connected-city, hackerspace, and DedSec presentation language. Content remains factual.</sub>
-</div>
 
 <!-- DEDSEC-END -->
-
----
-
-### 🖥 Operations Surface
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### Compute Lane
-- NVIDIA CUDA
-- C/C++
-- DirectX
-- Python
-
-</td>
-<td width="33%" valign="top">
-
-#### Hardware Lane
-- VHDL
-- FPGA
-- AES-128 CBC
-- Zybo Z7-20
-
-</td>
-<td width="34%" valign="top">
-
-#### Device Lane
-- Jetson
-- WinUSB
-- Ubertooth One
-- MediaPipe
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -96,13 +63,13 @@ Current public portfolio focus:
 </div>
 <!-- DEDSEC-END -->
 
-#### Hand-Scanner
-**Mission:** Biometric authentication system utilizing palm geometry.
+### Hand-Scanner
+**Target:** Biometric authentication system utilizing palm geometry.
 
-- **CUDA lane:** Parallel **QuickHull** on **NVIDIA CUDA** with **`300x speedup`** in high-density stress tests at **1M points**.
-- **Hardware lane:** Custom **VHDL** **AES-128 CBC** accelerator on FPGA with **`500 MB/s`** throughput.
-- **Deployment lane:** PC + **NVIDIA Jetson** + **Digilent Zybo Z7-20**.
-- **Vision lane:** **MediaPipe** hand landmark extraction on the Jetson edge node.
+- Parallel **QuickHull** implementation on **NVIDIA CUDA** with **`300x speedup`** in high-density stress tests at **1M points**.
+- Custom **VHDL** **AES-128 CBC** accelerator on FPGA with **`500 MB/s`** throughput.
+- Heterogeneous execution across PC, **NVIDIA Jetson**, and **Digilent Zybo Z7-20**.
+- **MediaPipe** hand landmark extraction on the Jetson edge node.
 
 <br>
 
@@ -115,23 +82,22 @@ Current public portfolio focus:
 </div>
 <!-- DEDSEC-END -->
 
-#### ubertooth-windows-host
-**Mission:** Windows-first, safe host CLI for Ubertooth One.
+### ubertooth-windows-host
+**Target:** Windows-first, safe host CLI for Ubertooth One.
 
-- **Transport lane:** **WinUSB** transport path via Zadig for guarded read-only protocol access.
-- **Visualization lane:** **DirectX** integration for high-performance spectrum analysis on Windows.
-- **Safety lane:** Guarded reboot-only reset and reconnect-verified firmware flashing.
+- **WinUSB** transport path via Zadig for guarded read-only protocol access.
+- **DirectX** integration for high-performance spectrum analysis on Windows.
+- Guarded reboot-only reset and reconnect-verified firmware flashing.
 
 ---
 
-### 📈 Evidence Dashboard
+### 🎛 Highlight Strip
 
-| Signal | Current evidence |
-| --- | --- |
-| Compute acceleration | **`300x`** speedup on CUDA QuickHull stress tests |
-| Hardware throughput | **`500 MB/s`** on FPGA AES-128 CBC accelerator |
-| Device stack | Jetson • Zybo Z7-20 • Ubertooth One |
-| Systems stack | WinUSB • DirectX • MediaPipe |
+<div align="center">
+  <img src="https://img.shields.io/badge/CUDA-300x_speedup-000000?style=for-the-badge&logo=nvidia&logoColor=15ff00" alt="CUDA Highlight Badge" />
+  <img src="https://img.shields.io/badge/FPGA-500_MB%2Fs-000000?style=for-the-badge&logo=xilinx&logoColor=32c8f4" alt="FPGA Highlight Badge" />
+  <img src="https://img.shields.io/badge/Ubertooth-Windows_first-000000?style=for-the-badge&logo=usb&logoColor=ff4fd8" alt="Ubertooth Highlight Badge" />
+</div>
 
 ---
 
@@ -174,6 +140,6 @@ When not working on systems and security projects, I also DJ and produce. Mixes:
 
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-VERIFIED-000000?style=for-the-badge&logo=keybase&logoColor=15ff00" alt="Status Badge" />
-  <img src="https://img.shields.io/badge/LAYOUT-HACKERSPACE_DASHBOARD-000000?style=for-the-badge&logo=ubisoft&logoColor=32c8f4" alt="Layout Badge" />
+  <img src="https://img.shields.io/badge/LAYOUT-SOCIAL_KIT-000000?style=for-the-badge&logo=ubisoft&logoColor=32c8f4" alt="Layout Badge" />
   <img src="https://img.shields.io/badge/PALETTE-GREEN%2FCYAN%2FMAGENTA-000000?style=for-the-badge&logo=ghostery&logoColor=ff4fd8" alt="Palette Badge" />
 </div>
