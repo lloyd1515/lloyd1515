@@ -57,7 +57,6 @@ Visual direction references Ubisoft's Watch Dogs 2 / DedSec social and presentat
 <!-- DEDSEC-START -->
 <div align="center">
   <a href="https://github.com/lloyd1515/Hand-Scanner">
-    <img src="assets/hand-scanner-banner-grid.svg#gh-dark-mode-only" width="100%" alt="Hand-Scanner Terminal UI - Biometric Authentication Project">
     <img src="assets/hand-scanner-banner-grid.svg#gh-light-mode-only" width="100%" alt="Hand-Scanner Terminal UI - Biometric Authentication Project">
   </a>
 </div>
@@ -76,7 +75,6 @@ Visual direction references Ubisoft's Watch Dogs 2 / DedSec social and presentat
 <!-- DEDSEC-START -->
 <div align="center">
   <a href="https://github.com/lloyd1515/ubertooth-windows-host">
-    <img src="assets/ubertooth-banner-grid.svg#gh-dark-mode-only" width="100%" alt="Ubertooth Terminal UI - Wireless Protocol Security Project">
     <img src="assets/ubertooth-banner-grid.svg#gh-light-mode-only" width="100%" alt="Ubertooth Terminal UI - Wireless Protocol Security Project">
   </a>
 </div>
