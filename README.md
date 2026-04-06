@@ -1,5 +1,4 @@
 <!-- EXCEPTION: README aesthetic overrides CLAUDE.md minimalist style for personal branding. -->
-<!-- DEDSEC-START -->
 <div align="center">
   <b>Computer Science Student @ Technical University of Cluj-Napoca (UTCN)</b><br>
   <b>Expected Graduation: 2027</b>
@@ -18,18 +17,15 @@
 </div>
 
 ---
-<!-- DEDSEC-END -->
 
 ### 📡 Featured Projects
 
 <!-- Hand-Scanner Banner - Applying dark theme for consistency -->
-<!-- DEDSEC-START -->
 <div align="center">
   <a href="https://github.com/lloyd1515/Hand-Scanner">
     <img src="assets/hand-scanner-banner-dark.svg" width="100%" alt="Hand-Scanner Banner Dark - Security Researcher Project">
   </a>
 </div>
-<!-- DEDSEC-END -->
 
 **The Build:** A complete biometric solution using palm geometry. 
 *   **Geometric Analysis:** Parallel **QuickHull** implementation on **NVIDIA CUDA** achieving a **300x speedup** for high-density stress tests (1M points).
@@ -40,13 +36,11 @@
 <br>
 
 <!-- Ubertooth Banner - Applying dark theme for consistency -->
-<!-- DEDSEC-START -->
 <div align="center">
   <a href="https://github.com/lloyd1515/ubertooth-windows-host">
     <img src="assets/ubertooth-banner-dark.svg" width="100%" alt="Ubertooth Banner Dark - Wireless Protocol Security Project">
   </a>
 </div>
-<!-- DEDSEC-END -->
 
 **The Build:** A Windows-first, safe host CLI for Ubertooth One.
 *   **Safe Transport:** WinUSB-backed transport (via Zadig) with guarded read-only protocol access.
@@ -55,7 +49,6 @@
 
 ---
 
-<!-- DEDSEC-START -->
 ### 🛠 Skill Matrix - Terminal Vibe
 
 <div align="center">
@@ -67,13 +60,11 @@
 | <img src="https://img.shields.io/badge/Ubertooth-000000?style=for-the-badge&logo=usb&logoColor=00ff00" alt="Ubertooth"> | <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffff00" alt="Python"> | <img src="https://img.shields.io/badge/CTF-000000?style=for-the-badge&logo=hackthebox&logoColor=00ffff" alt="CTF"> |
 
 </div>
-<!-- DEDSEC-END -->
 
 ---
 
-### 📊 Technical Signal - Dark Mode
+### 📊 Technical Signal
 
-<!-- DEDSEC-START -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lloyd1515&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph Dark - LLoyd1515" width="100%" />
 </div>
@@ -81,7 +72,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloyd1515&layout=compact&theme=tokyonight&hide_border=true&include_all_langs=true" alt="Top Languages Dark - LLoyd1515" />
 </div>
-<!-- DEDSEC-END -->
 
 ---
 
