@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#32c8f4" stroke-width="0.5" opacity="0.1"/>
+    </pattern>
+    <filter id="glitch">
+      <feOffset dx="-2" dy="0" in="SourceGraphic" result="offset-left"/>
+      <feOffset dx="2" dy="0" in="SourceGraphic" result="offset-right"/>
+      <feColorMatrix in="offset-left" type="matrix" values="1 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 1 0" result="cyan-left"/>
+      <feColorMatrix in="offset-right" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 1 0 0  0 0 0 1 0" result="magenta-right"/>
+      <feMerge>
+        <feMergeNode in="cyan-left"/>
+        <feMergeNode in="magenta-right"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="#000000"/>
+  <rect width="100%" height="100%" fill="url(#grid)"/>
+  <rect width="100%" height="2" y="30" fill="#15ff00" opacity="0.2"/>
+  <rect width="100%" height="2" y="170" fill="#f04f54" opacity="0.2"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="40" fill="#32c8f4" font-weight="bold" filter="url(#glitch)">[ UBERTOOTH-WINDOWS-HOST ]</text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="12" fill="#15ff00" opacity="0.8">>> SCANNING WIRELESS SPECTRUM...</text>
+</svg>
