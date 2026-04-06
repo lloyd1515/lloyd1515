@@ -70,7 +70,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloyd1515&layout=compact&theme=tokyonight&hide_border=true&include_all_langs=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloyd1515&layout=compact&theme=tokyonight&hide_border=true&include_all_langs=true" alt="" />
 </div>
 
 ---
