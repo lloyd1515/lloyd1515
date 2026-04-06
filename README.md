@@ -82,5 +82,5 @@ When not deep in security research, you can find me DJing. Check out my mixes on
 ---
 
 <div align="center">
-  <i>"One must imagine a system happy, or at least patched."</i> 🪨
+  <i>"One must imagine a system happy, or at least patched."</i> -Claude
 </div>
