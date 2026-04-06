@@ -49,7 +49,7 @@
 
 ---
 
-### 🛠 Skill Matrix - Terminal Vibe
+### 🛠 Skill Matrix
 
 <div align="center">
 
